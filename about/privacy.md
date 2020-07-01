@@ -1,7 +1,4 @@
-<html>
-
-<body>
-	<style>
+<style>
   [data-custom-class='body'], [data-custom-class='body'] * {
           background: transparent !important;
         }
@@ -55,6 +52,3 @@ word-break: break-word !important;
     </style>
       </div>
       <div style="color: #595959;font-size: 14px;font-family: Arial;padding-top:16px;">This privacy policy was created using <a style="color: rgb(48, 48, 241) !important;" href="https://termly.io/products/privacy-policy-generator/?ftseo">Termly’s Privacy Policy Generator</a>.</div>
-</body>>
-
-</html>
